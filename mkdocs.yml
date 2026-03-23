@@ -1,5 +1,5 @@
-site_name: Native Heat Diffusion
-site_description: Native C++ heat diffusion simulator with a web UI
+site_name: Nonlinear Differential Mapping Engine
+site_description: Native C++ nonlinear mapping lab with Jacobian and local linearization analysis
 theme:
   name: material
 nav:

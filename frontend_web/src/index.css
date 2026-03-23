@@ -616,13 +616,6 @@ input[type='range']::-moz-range-track {
   pointer-events: none;
 }
 
-.heat-frame {
-  background:
-    radial-gradient(circle at top, rgba(255, 255, 255, 0.1), transparent 38%),
-    linear-gradient(180deg, rgba(8, 19, 31, 0.98), rgba(16, 32, 49, 0.98));
-  border-color: rgba(8, 19, 31, 0.26);
-}
-
 canvas {
   position: relative;
   z-index: 1;
