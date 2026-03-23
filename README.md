@@ -4,6 +4,8 @@ Interactive mathematical sandbox for exploring nonlinear maps, Jacobians, and lo
 
 The current implementation focuses on smooth maps of the form `f : R^2 -> R^2`, with real-time geometric sampling and pointwise differential analysis.
 
+![Nonlinear Differential Mapping Engine preview](docs/media/image.png)
+
 ## What This Project Does
 
 The app lets you choose a preset map, sample a square domain grid, and study the local behavior of the map around a selected point.

@@ -1,7 +1,6 @@
 */build/
 site/
 *.webm
-*.png
 
 # Prerequisites
 *.d
